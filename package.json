@@ -5,6 +5,10 @@
   "files": [
     "app"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhengHe-MD/generator-md-sass-starter"
+  },
   "keywords": [
     "yeoman-generator"
   ],
