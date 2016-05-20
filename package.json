@@ -1,0 +1,17 @@
+{
+  "name": "generator-md-sass-starter",
+  "version": "0.1.0",
+  "description": "generate a light-weight sass-based project",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Zheng He <zhenghe@madadata.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.12.0",
+    "yeoman-generator": "0.23.3"
+  }
+}
