@@ -1,6 +1,6 @@
 {
   "name": "generator-md-sass-starter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "generate a light-weight sass-based project",
   "files": [
     "app"
